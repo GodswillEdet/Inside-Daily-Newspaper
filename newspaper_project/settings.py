@@ -29,6 +29,7 @@ INSTALLED_APPS = [
 
     #local
     'users.apps.UsersConfig',
+    'pages.apps.PagesConfig',
 ]
 
 MIDDLEWARE = [
