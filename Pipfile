@@ -5,7 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
-django-crispy-forms = "==1.7.2"
+django-crispy-forms = "==1.8.1"
+install = "*"
+crispy-bootstrap5 = "*"
 
 [dev-packages]
 
